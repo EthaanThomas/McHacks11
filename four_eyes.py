@@ -1,1 +1,1 @@
-##iaushdf;oiahsedf;oiahswdoiuhnoiuh
+print('4 eyes')
