@@ -1,1 +1,1 @@
-print('4 eyes')
+print('four eyes')
